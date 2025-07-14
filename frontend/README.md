@@ -1,4 +1,4 @@
-# Youtube video analysis
+# frontend project for cedur
 
 *Automatically synced with your [v0.dev](https://v0.dev) deployments*
 
